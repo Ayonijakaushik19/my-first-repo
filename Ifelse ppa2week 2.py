@@ -13,7 +13,7 @@ elif x==0 and y!=0:
 elif y==0 and x!=0:
     print("X-axis")
 else:
-    print("Origin")
+    print("Origin") # to check if x and y are on origin
     
 
     
