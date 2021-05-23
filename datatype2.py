@@ -1,4 +1,4 @@
-#None dATA type
+#None Data type
 a=()
 print(type(a))
 
@@ -12,10 +12,12 @@ print(b,type(b))
 c=34.0
 print(c,type(c))
 
-#complex
+# To represent the complex number in python 
 d=3+5j
-e=d.imag
-print(e,type(d))
+i=d.imag # To print the imaginary part of the complex number.
+r = d.real # To print the real part of the complex number.
+print(i,type(d))
+print(r, type(r))
 
 
 
