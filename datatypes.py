@@ -1,4 +1,3 @@
-
 first_name="David"
 print(first_name,type(first_name))
 last_name="andrews"
