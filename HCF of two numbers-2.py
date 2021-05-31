@@ -3,7 +3,6 @@
 
 # Minimum of the two numbers
     minimum = min(x, y)
- 
     # If both the numbers are divisible
     # by the minimum of these two then
     # the HCF is equal to the minimum
