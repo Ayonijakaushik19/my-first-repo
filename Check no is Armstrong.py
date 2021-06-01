@@ -2,7 +2,6 @@
 
 # take input from the user
 num = int(input("Enter a number: "))
-
 # initialize sum
 sum = 0
 
