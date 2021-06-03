@@ -5,7 +5,6 @@ from datetime import *
 # into date class objects
 d1, m1, y1 = [int(x) for x in input("Enter first"
 		" person's date(DD/MM/YYYY) : ").split('/')]
-
 b1 = date(y1, m1, d1)
 
 # Input for second date
