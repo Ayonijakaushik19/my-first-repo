@@ -11,7 +11,6 @@ d2, m2, y2 = [int(x) for x in input("Enter second"
 		" person's date(DD/MM/YYYY) : ").split('/')]
 
 b2 = date(y2, m2, d2)
-
 # Check the dates
 if b1 == b2:
 	print("Both persons are of equal age")
