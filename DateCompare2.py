@@ -15,6 +15,5 @@ if b1 == b2:
 	print("Both persons are of equal age")
 elif b1 > b2:
 	print("The second person is older")
-	
 else:
 	print("The first person is older")
