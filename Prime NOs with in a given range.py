@@ -1,8 +1,9 @@
 # Python program to print all
 # prime number in an interval
 # number should be greater than 1
-start = 11
-end = 25
+
+start = int(input())
+end = int(input())
 primeList = []
 for i in range(start, end+1):
 if i>1:
