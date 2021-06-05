@@ -5,7 +5,6 @@ ab_1=1
 is=3
 1_a=4
 bad_variable=100
-
 #throws error
 
 #question 4
