@@ -9,7 +9,6 @@ bad_variable=100
 #throws error
 
 #question 4
-
 x,y=1,2
 print(x,y)
 x,y=y,x 
