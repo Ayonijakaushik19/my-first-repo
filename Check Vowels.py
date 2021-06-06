@@ -1,5 +1,4 @@
 str1 = input()
-
 if 'a' in str1 or 'A' in str1:
     print('a',end ="")
 if 'e' in str1 or 'E' in str1:
