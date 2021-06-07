@@ -1,4 +1,5 @@
 # basic method of input output
+
 # input N
 n = int(raw_input())
 
