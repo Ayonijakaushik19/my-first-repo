@@ -1,3 +1,4 @@
+
 TIME=int(input())
 if TIME<0:
     print("INVALID")
