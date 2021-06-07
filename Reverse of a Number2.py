@@ -1,14 +1,14 @@
     # converting number to string
     num = int(input())
-    string = str(num)
+    number = str(num)
  
     # reversing the string
-    string = list(string)
-    string.reverse()
-    string = ''.join(string)
+    number = list(number)
+    number.reverse()
+    number = ''.join(number)
  
     # converting string to integer
-    num = int(string)
+    num = int(number)
     
     #print the number
     print(num)
