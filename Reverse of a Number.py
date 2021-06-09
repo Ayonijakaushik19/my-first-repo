@@ -1,5 +1,4 @@
 # Python program to reverse a number
-
 num = int(input())
 rev = 0
 
