@@ -2,7 +2,6 @@
 num = int(input("Enter a number: "))
 # define a flag variable
 flag = False
-
 # prime numbers are greater than 1
 if num > 1:
     # check for factors
