@@ -12,7 +12,6 @@ if num > 1:
             flag = True
             # break out of loop
             break
-
 # check if flag is True
 if flag:
     print(num, "is not a prime number")
