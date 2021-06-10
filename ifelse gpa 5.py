@@ -4,7 +4,6 @@ year1=int(Dob1[6:])
 month1=int(Dob1[3:5])
 date1=int(Dob1[0:2])
 
-
 Name2=str(input())
 Dob2=str(input())
 year2=int(Dob2[6:])
