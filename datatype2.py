@@ -16,6 +16,7 @@ d=3+5j
 
 i=d.imag # To print the imaginary part of the complex number.
 r = d.real # To print the real part of the complex number.
+
 print(i,type(d))
 print(r, type(r))
 
