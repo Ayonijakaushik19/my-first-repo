@@ -3,7 +3,6 @@ a=()
 print(type(a))
 
 #numeric type
-
 #integer
 b=34
 print(b,type(b))
