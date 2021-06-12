@@ -1,4 +1,5 @@
 # Function to return hcf of a and b
+
 def hcf(a,b):
 	# Everything divides 0
 	if (b == 0):
