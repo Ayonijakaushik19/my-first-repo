@@ -1,3 +1,4 @@
+#To print all the data types and their values.
 first_name="David"
 print(first_name,type(first_name))
 last_name="andrews"
