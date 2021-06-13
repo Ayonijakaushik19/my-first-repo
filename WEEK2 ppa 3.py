@@ -8,10 +8,11 @@ if x1==x2:
 elif y1==y2:
     print("Horizontal Line")
 else:
+    m=(y2-y1)/(x2-x1)
     y3=((x3-x1)*(y2-y1))/(x2-x1)
     y3+=y1
     print(y3)
-    if y3>0:
+    if m>0:
         print("Positive Slope")
     else:
         print("Negative Slope")
@@ -20,6 +21,10 @@ else:
     
 
     
+
+    
+
+
 
     
 
