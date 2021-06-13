@@ -10,7 +10,6 @@ if bool_var:
         x=x-1
 print(x)  
 
-
 Bool_var=False
 y=8 
 if Bool_var:
