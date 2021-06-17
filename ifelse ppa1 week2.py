@@ -1,3 +1,5 @@
+
+
 x=float(input())
 if 0<x and x<10:
     print(x+2)
