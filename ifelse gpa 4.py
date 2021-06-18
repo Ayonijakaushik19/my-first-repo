@@ -1,6 +1,6 @@
 
 str1 = input()
-counts= [0,0,0,0,0]  # here we are taking a list of flags that will signify whether the particular vowels exists in the srting or not 
+counts= [0,0,0,0,0] # here we are taking a list of flags that will signify whether the particular vowels exists in the srting or not 
 if str1.count('a')!=0 or str1.count('A')!=0:
     counts[0]=1
 if str1.count('e')!=0 or str1.count('E')!=0:
