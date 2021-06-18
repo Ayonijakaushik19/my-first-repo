@@ -1,5 +1,6 @@
 n=int(input())
 s=[]
+
 if n<2:
     print(n)
 else:
