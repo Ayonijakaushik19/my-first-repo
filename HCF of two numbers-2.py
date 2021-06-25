@@ -1,7 +1,8 @@
     x = int(input())
     y = int(input())
 
-# Minimum of the two numbers
+
+    # Minimum of the two numbers
     minimum = min(x, y)
     # If both the numbers are divisible
     # by the minimum of these two then
