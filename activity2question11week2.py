@@ -12,7 +12,6 @@ elif lastdigit==4:
     print('four')
 elif lastdigit==5:
     print('five')
-    
 elif lastdigit==6:
     print('six')
     
