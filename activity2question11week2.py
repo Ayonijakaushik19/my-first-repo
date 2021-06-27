@@ -8,7 +8,6 @@ elif lastdigit==2:
     print('two')
 elif lastdigit==3:
     print('three')
-    
 elif lastdigit==4:
     print('four')
     
