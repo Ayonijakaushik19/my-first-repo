@@ -4,7 +4,6 @@ if lastdigit==0:
     print('zero')
 elif lastdigit==1:
     print('one')
-    
 elif lastdigit==2:
     print('two')
 
