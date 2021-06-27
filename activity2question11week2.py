@@ -6,7 +6,6 @@ elif lastdigit==1:
     print('one')
 elif lastdigit==2:
     print('two')
-
 elif lastdigit==3:
     print('three')
     
