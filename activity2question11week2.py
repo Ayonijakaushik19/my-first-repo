@@ -10,7 +10,6 @@ elif lastdigit==3:
     print('three')
 elif lastdigit==4:
     print('four')
-    
 elif lastdigit==5:
     print('five')
     
