@@ -1,4 +1,4 @@
-#printin downward half pyramid
+#print in downward half pyramid
 
 n = int(input())  
   
