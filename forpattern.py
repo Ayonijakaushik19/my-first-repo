@@ -15,5 +15,6 @@ for i in range(0,n):
         print("*",end="")
         
     #ending line after each row
+    
     print()
 
