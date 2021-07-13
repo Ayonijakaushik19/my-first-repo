@@ -6,7 +6,7 @@ while datapoints!="END":
     lst.append(int(datapoints))
     datapoints=str(input())
 #we have taken another input from user to check if it's equaal to "END"or not, or if she wants to give another input
-#print(lst)
+
 
 #step 2-to get the length of the list of data points that user have entered and also find the sum and average
 length=0
