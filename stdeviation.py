@@ -1,7 +1,6 @@
 import math
 #step1
 lst=[]
-
 datapoints=str(input())
 
 
