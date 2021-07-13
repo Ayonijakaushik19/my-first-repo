@@ -25,7 +25,6 @@ for y in lst:
 
 standard_deviation=summation/(length-1)
 #we can use **0.5 also as power in the process of taking square root in place of math function
-
 print(math.sqrt(standard_deviation))
 print(round(math.sqrt(standard_deviation),2))
 
