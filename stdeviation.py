@@ -17,7 +17,6 @@ for x in lst:
 average=sum/length
 #step 3-to find the summation of x[i]-x which is equal to lst[i]-average in my case
 summation=0
-
 for y in lst:
     summation+=(y-average)**2
     
