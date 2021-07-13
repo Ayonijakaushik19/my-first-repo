@@ -2,7 +2,6 @@ import math
 #step1
 lst=[]
 datapoints=str(input())
-
 while datapoints!="END":
     lst.append(int(datapoints))
     datapoints=str(input())
