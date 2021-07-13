@@ -10,7 +10,6 @@ while datapoints!="END":
 
 #step 2-to get the length of the list of data points that user have entered and also find the sum and average
 length=0
-
 length=len(lst)
 
 sum=0
