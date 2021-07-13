@@ -15,7 +15,6 @@ sum=0
 for x in lst:
     sum=sum+x
 average=sum/length
-
 #step 3-to find the summation of x[i]-x which is equal to lst[i]-average in my case
 summation=0
 
