@@ -22,7 +22,6 @@ for y in lst:
     summation+=(y-average)**2
     
 #step4-to find the actual standard deviation
-
 standard_deviation=summation/(length-1)
 #we can use **0.5 also as power in the process of taking square root in place of math function
 print(math.sqrt(standard_deviation))
