@@ -1,5 +1,4 @@
 #This is the example of print simple pyramid pattern
-
 n=int(input())
 
 #outer loop to handle number of rows
