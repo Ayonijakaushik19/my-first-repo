@@ -1,5 +1,4 @@
 #print in downward half pyramid
-
 n = int(input())  
   
 # the outer loop is executing in reversed order  
