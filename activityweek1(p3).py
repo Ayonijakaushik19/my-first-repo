@@ -1,5 +1,4 @@
 #question number 23
-
 a=int(input())
 b=int(input())
 print(0<a<b<10)
