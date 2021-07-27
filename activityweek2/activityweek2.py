@@ -33,7 +33,6 @@ if n.count("8")==0:
     
     print("8")
 if n.count("9")==0:
-    
     print("9")
     
      
