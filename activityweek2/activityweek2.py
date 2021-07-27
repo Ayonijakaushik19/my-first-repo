@@ -7,7 +7,6 @@ if n.count("0")==0 and n.count("1")==0 and n.count("2")==0 and n.count("3")==0 a
     print("False")
 else:
     print("True")
-    
 if n.count("0")==0:
     print("0")
 if n.count("1")==0:
