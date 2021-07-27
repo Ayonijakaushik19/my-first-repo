@@ -3,7 +3,6 @@ n=str(n)
 print(n)
 cnt=n.count("3")
 print(cnt)
-
 if n.count("0")==0 and n.count("1")==0 and n.count("2")==0 and n.count("3")==0 and n.count("4")==0 and n.count("5")==0 and n.count("6")==0 and n.count("7")==0  and n.count("8")==0  and n.count("9")==0:
     print("False")
 else:
