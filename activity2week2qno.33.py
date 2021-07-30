@@ -15,7 +15,6 @@ if first_won==-1:
 else:
     print("won")
 three_match_streak=n.find("WWW")
-
 if three_match_streak==-1:
     
     print("don't have any streak")
