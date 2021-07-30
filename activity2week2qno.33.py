@@ -17,7 +17,6 @@ else:
 three_match_streak=n.find("WWW")
 if three_match_streak==-1:
     print("don't have any streak")
-     
 else:
     print("it has")
     
