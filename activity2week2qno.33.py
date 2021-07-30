@@ -10,7 +10,6 @@ matches_won=n.count("W")
 print(matches_won)
 first_won=n.find("W")
 print(first_won)
-
 if first_won==-1:
     print("Not won")
 else:
