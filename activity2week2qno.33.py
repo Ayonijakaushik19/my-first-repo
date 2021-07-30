@@ -6,7 +6,6 @@ Created on Sat Jul 24 16:41:35 2021
 n=input()
 matches_played=len(n)
 print(matches_played)
-
 matches_won=n.count("W")
 
 print(matches_won)
