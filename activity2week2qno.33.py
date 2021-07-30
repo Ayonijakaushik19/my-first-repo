@@ -8,7 +8,6 @@ matches_played=len(n)
 print(matches_played)
 matches_won=n.count("W")
 print(matches_won)
-
 first_won=n.find("W")
 
 print(first_won)
