@@ -14,7 +14,6 @@ if first_won==-1:
     print("Not won")
 else:
     print("won")
-
 three_match_streak=n.find("WWW")
 
 if three_match_streak==-1:
