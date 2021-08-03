@@ -8,7 +8,6 @@ import sympy
 n=int(input())
 i=1
 count=0
-
 while i<=n:
     if sympy.isprime(i):
         count+=1
