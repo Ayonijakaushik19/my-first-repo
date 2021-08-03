@@ -6,7 +6,6 @@ Created on Sun Jul 25 12:31:23 2021
 """
 import sympy
 n=int(input())
-
 i=1
 count=0
 
