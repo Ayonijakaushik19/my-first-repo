@@ -16,7 +16,6 @@ while i<=n:
 print(count)
         
 # for prime numbers
-
 q=int(input())
 m=1
 count1=0
