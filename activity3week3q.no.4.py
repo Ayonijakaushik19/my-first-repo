@@ -5,7 +5,6 @@ Created on Sun Jul 25 12:31:23 2021
 @author: ayonija
 """
 import sympy
-
 n=int(input())
 
 i=1
