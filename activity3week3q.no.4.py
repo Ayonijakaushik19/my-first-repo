@@ -19,7 +19,6 @@ print(count)
 q=int(input())
 m=1
 count1=0
-
 while m<=q:
     if sympy.isprime(m):
         m+=1
