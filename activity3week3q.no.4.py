@@ -1,7 +1,6 @@
  -*- coding: utf-8 -*-
 """
 Created on Sun Jul 25 12:31:23 2021
-
 @author: ayonija
 """
 import sympy
