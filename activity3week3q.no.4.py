@@ -14,7 +14,6 @@ while i<=n:
         print(i)
     i+=1
 print(count)
-        
 # for prime numbers
 q=int(input())
 m=1
