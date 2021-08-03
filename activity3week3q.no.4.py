@@ -2,9 +2,8 @@
 """
 Created on Sun Jul 25 12:31:23 2021
 
-@author: ayoni
+@author: ayonija
 """
-
 import sympy
 
 n=int(input())
