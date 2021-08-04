@@ -7,7 +7,6 @@ Created on Thu Jul 29 10:34:58 2021
 
 string=input()
 a=len(string)
-
 modified_string=""
 for i in range(a):
     if string[i].isupper():
