@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 """
 Created on Thu Jul 29 10:34:58 2021
 @author: ayonija
