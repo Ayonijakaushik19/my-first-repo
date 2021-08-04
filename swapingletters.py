@@ -9,7 +9,6 @@ string=input()
 a=len(string)
 
 modified_string=""
-
 for i in range(a):
     if string[i].isupper():
         modified_string+=string[i].lower()
