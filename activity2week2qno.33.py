@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Jul 24 16:41:35 2021
-@author: ayonija
+@author: ayonija kaushik
 """
 n=input()
 matches_played=len(n)
