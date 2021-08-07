@@ -1,4 +1,4 @@
-#find LCM
+#find LCM of two numbers
 n1=int(input())
 n2=int(input())
 maxi=0
