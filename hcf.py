@@ -13,3 +13,5 @@ for i in range(mini,1,-1):
     if n1%i==0 and n2%i==0:
         print(i,"HCF is",i)
         break
+else:
+    print(1) # For Co-primes
