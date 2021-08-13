@@ -1,5 +1,4 @@
 #printing a series
-
 x=int(input())
 n=int(input())
 sum=1
