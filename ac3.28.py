@@ -11,7 +11,6 @@ while n1>0:
 while n2>0:
     count2+=1
     n2=n2//10
-
 if count1==count2:
     print("Same number")
 else:
