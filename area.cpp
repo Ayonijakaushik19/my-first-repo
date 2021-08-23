@@ -1,6 +1,7 @@
 //area of a triangle
 #include <iostream>
 using namespace std;
+
 int main()
 {
     float l,b,area;
