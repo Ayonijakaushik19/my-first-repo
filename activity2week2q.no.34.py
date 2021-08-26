@@ -4,7 +4,6 @@ Created on Sat Jul 24 17:15:45 2021
 @author: ayoni
 """
 label=input()
-
 positions="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
 if len(label)==1:
