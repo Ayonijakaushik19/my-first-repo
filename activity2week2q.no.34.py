@@ -17,5 +17,4 @@ r=r-1
 if q==-1:
     print(positions[r])
 else:
-    
     print(positions[q]+positions[r])
