@@ -12,7 +12,6 @@ else:
 label1=int(input())
 q=label1//26
 q=q-1
-
 r=label1%26
 r=r-1
 if q==-1:
