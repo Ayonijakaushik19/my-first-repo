@@ -7,7 +7,6 @@ label=input()
 positions="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 if len(label)==1:
     print(positions.index(label)+1)
-
 else:
     print((26*(positions.index(label[0])+1))+positions.index(label[1])+1)
     
