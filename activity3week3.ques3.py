@@ -11,8 +11,7 @@ while i<=n:
     f= math.factorial(i)
     print(f)
     i+=1
-    sum+=f
-      
+    sum+=f    
 average=sum/n   
 print(average)   
 """to find the average of the sum of the factorial of 1 to n numbers   
