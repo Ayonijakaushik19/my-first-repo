@@ -14,8 +14,7 @@ while i<=n:
     sum+=f
       
 average=sum/n   
-print(average) 
-    
+print(average)   
 """to find the average of the sum of the factorial of 1 to n numbers   
     
     
