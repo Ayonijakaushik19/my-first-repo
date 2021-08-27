@@ -9,7 +9,6 @@ i=1
 sum=0
 while i<=n:
     f= math.factorial(i)
-    
     print(f)
     i+=1
     sum+=f
