@@ -3,7 +3,6 @@
 Created on Sun Jul 25 11:42:56 2021
 @author: ayoni
 """
-
 import math
 
 n=int(input())
