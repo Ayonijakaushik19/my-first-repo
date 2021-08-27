@@ -12,8 +12,7 @@ while i<=n:
     print(f)
     i+=1
     sum+=f
-    
-    
+      
 average=sum/n   
 print(average) 
     
