@@ -1,5 +1,4 @@
 //To print multiple words ,we use getline
-
 #include <iostream>
 using namespace std;
 int main()
