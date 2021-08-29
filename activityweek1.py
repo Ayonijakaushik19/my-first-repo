@@ -1,5 +1,4 @@
 #question number 14
-
 """n=7**100
 s=str(n)
 print(len(s))"""
