@@ -10,7 +10,6 @@ print(len(s))"""
 """n=int(input())
 sq_num=int(n**0.5)
 print(sq_num**2==n)"""
-
 # alternative way of question number 25
 import math
 m=int(input())
