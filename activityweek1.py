@@ -16,5 +16,4 @@ import math
 m=int(input())
 
 q=int(math.sqrt(m))
-
 print(q**2==m)
