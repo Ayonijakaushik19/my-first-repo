@@ -1,5 +1,4 @@
 #sum of all prime numbers between 1 and n
-
 n=int(input())
 sum=0
 if (n>=2):
