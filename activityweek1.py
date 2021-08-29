@@ -2,7 +2,6 @@
 """n=7**100
 s=str(n)
 print(len(s))"""
-
 #question number 25
 """n=int(input())
 sq_num=int(n**0.5)
