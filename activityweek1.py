@@ -6,7 +6,6 @@ print(len(s))"""
 
 #question number 25
 
-
 """n=int(input())
 sq_num=int(n**0.5)
 print(sq_num**2==n)"""
