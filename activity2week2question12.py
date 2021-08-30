@@ -1,5 +1,4 @@
 x,y,z=int(input()) , int(input()) , int(input())
-
 if x+y==z:
    print('good triplet')
 elif y+z==x:
