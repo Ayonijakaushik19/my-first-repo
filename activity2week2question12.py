@@ -8,8 +8,7 @@ elif x+z==y:
 else:
     print('bad triplet')
  #2nd way:
- 
-x,y,z=int(input()),int(input()),int(input())
+ x,y,z=int(input()),int(input()),int(input())
 if x+y==z or y+z==x or x+z==y:
     print('good triplet')
 else:
