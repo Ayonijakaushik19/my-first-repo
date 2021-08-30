@@ -7,7 +7,6 @@ elif x+z==y:
     print('good triplet')
 else:
     print('bad triplet')
- 
  #2nd way:
  
     
