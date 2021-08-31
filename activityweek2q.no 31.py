@@ -5,7 +5,6 @@ Created on Sat Jul 24 14:27:15 2021
 """We are taking start and end as input ,start from where the bishop starts walking and end from where it goes"""
 start=input()
 end=input()
-
 pos="ABCDEFGH"
 
 # Here we will considering position as horizontal positions
