@@ -7,7 +7,6 @@ start=input()
 end=input()
 pos="ABCDEFGH"
 # Here we will considering position as horizontal positions
-
 start_xaxis,start_yaxis=pos.index(start[0]),int(start[1])
 
 end_xaxis,end_yaxis=pos.index(end[0]),int(end[1])
