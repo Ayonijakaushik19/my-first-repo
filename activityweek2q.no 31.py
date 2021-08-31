@@ -18,6 +18,5 @@ end_xaxis,end_yaxis=pos.index(end[0]),int(end[1])
 else:
     print("NO")
     
-    
 #So far,so good
 
