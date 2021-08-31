@@ -6,7 +6,6 @@ Created on Sat Jul 24 14:27:15 2021
 start=input()
 end=input()
 pos="ABCDEFGH"
-
 # Here we will considering position as horizontal positions
 
 
