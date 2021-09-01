@@ -3,7 +3,6 @@
 q=str(n)
 sum=int(q[0])+int(q[1])
 print(sum)"""
-
 """n=int(input())
 
 q=n%10
