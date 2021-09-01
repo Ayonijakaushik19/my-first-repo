@@ -7,7 +7,6 @@ print(sum)"""
 q=n%10
 n=n//10
 print(q+n)"""
-
 #alternative way of question number 24
 
 n=int(input())
