@@ -8,7 +8,6 @@ q=n%10
 n=n//10
 print(q+n)"""
 #alternative way of question number 24
-
 n=int(input())
 q=n%100
 thirddigit=q%10
