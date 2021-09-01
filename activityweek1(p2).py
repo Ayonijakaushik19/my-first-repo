@@ -1,5 +1,4 @@
 #question number 24
-
 """n=int(input())
 q=str(n)
 sum=int(q[0])+int(q[1])
