@@ -8,7 +8,6 @@ int main() {
     c=a+b;
     cout<<"Sum is"<<" "<<c;
     return 0;
-    
 }
 
 	
