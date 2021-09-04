@@ -5,7 +5,6 @@ while n<=50:
     elif n%3==0:
         print("foo")
     elif n%5==0:
-        
         print("bar")
         
     
