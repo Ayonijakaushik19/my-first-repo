@@ -7,8 +7,7 @@ int main()
     cin>>a>>b;
     c=a+b;
     cout<<"Sum is"<<" "<<c;
-    return 0;
-    
+    return 0;   
 }
 
 	
