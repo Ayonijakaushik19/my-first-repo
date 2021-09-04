@@ -5,7 +5,7 @@ for i in range(1,n+1):
     fac=fac*i
 print(fac)
     
-    # another method    
+# another method    
 n=int(input())
 fact=1
 if n<0:
