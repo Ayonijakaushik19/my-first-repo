@@ -7,6 +7,5 @@ while n<=50:
     elif n%5==0:
         print("bar")
         
-    
     n+=1
     print(n)
