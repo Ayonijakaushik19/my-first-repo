@@ -7,5 +7,4 @@ int main(){
     area=0.5*(b*h);
     cout<<area;
     return 0;
-
 }
