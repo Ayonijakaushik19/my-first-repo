@@ -7,5 +7,4 @@ int main(){
   area=(float)22/7*r*r;
   cout<<area;
   return 0;
-  
-}
+  }
