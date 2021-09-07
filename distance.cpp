@@ -2,8 +2,7 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
-int main()
-{
+int main(){
     int x1,y1,x2,y2;
     float dist;
     cin>>x1>>y1>>x2>>y2;
