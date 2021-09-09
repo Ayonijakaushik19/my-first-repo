@@ -1,4 +1,5 @@
 a,b,c=[int(x) for x in input().split()]
+
 if a>b and a>c:
     if a**2==b**2+c**2:
          print("YES")
