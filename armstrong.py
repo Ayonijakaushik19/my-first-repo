@@ -3,6 +3,7 @@ n=int(input())
 #making a local copy
 n1=n
 sum=0
+
 while n>0:
     digits=n%10
     n=n//10
