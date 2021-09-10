@@ -1,4 +1,5 @@
 T=int(input())
+
 if T<0:
     print("INVALID")
 elif T>=0 and T<=5:
@@ -11,5 +12,6 @@ elif T>=18 and T<=23:
     print("EVENING")
 elif T>=24:
     print("INVALID")
+    
 #we can also use "else" here.just wanted to check whether elif works alone or 
 #is it really compulsory to write else after elif
