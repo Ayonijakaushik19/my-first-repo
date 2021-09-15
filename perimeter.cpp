@@ -1,8 +1,7 @@
 //Perimeter of a rectangle
 #include <iostream>
 using namespace std;
-int main()
-{
+int main(){
     float l,b,perimeter;
     cin>>l>>b;
     perimeter=2*(l+b);
