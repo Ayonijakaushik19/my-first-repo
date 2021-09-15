@@ -8,5 +8,4 @@ int main()
     perimeter=2*(l+b);
     cout<<perimeter;
     return 0;
-
 }
