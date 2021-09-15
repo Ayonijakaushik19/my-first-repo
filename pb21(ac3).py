@@ -1,5 +1,4 @@
 #product of digits of a number 
-
 n=abs(int(input()))
 product=1
 if n==0:
