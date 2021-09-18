@@ -1,4 +1,5 @@
 lst=[]
+
 n=int(input())
 lst.insert(0,6)
 lst.insert(1,7)
