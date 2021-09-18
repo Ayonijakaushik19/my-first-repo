@@ -13,4 +13,5 @@ print(lst)
 lst.pop()
 lst.sort(reverse=True)
 print(lst)
+
 #pop is an inbuilt function
