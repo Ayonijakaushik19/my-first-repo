@@ -7,7 +7,6 @@ print(s[8])
 print(s[5:]+s[5: :-1])
 print(s[-3:-1])
 print(s[16: :-1])
-
 #easy so is python
 l=s.split(" ")
 print(l)
