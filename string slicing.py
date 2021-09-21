@@ -3,7 +3,6 @@ s="python is so easy"
 print(s,type(s))
 #indexing
 print(s[8])
-
 # slicing
 print(s[5:]+s[5: :-1])
 print(s[-3:-1])
