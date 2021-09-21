@@ -1,7 +1,6 @@
 #create a string 
 s="python is so easy"
 print(s,type(s))
-
 #indexing
 print(s[8])
 
