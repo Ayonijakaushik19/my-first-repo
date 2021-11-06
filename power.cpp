@@ -5,7 +5,7 @@ int main() {
     int x,n;
     cin>>x>>n;
     int pow;
-    int i=0;
+    int i=1;
     while(i<=n){
         if(n>1){
             pow=x*x;
